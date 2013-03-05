@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Mar 04 21:11:23 CST 2013
+onejar.license.required=false
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=true
+jarname=C\:\\Users\\TANNY\\Desktop\\FileSyncSH0304.jar
+manifest.mergeall=true
+manifest.mainclass=com.tnt.frame.MainFrame
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
